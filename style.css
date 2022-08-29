@@ -23,7 +23,7 @@ h1{
     padding-top: 25px;
 }
 
-input{
+#inp{
     width: 75%;
     height: 30px;
 }
@@ -40,3 +40,100 @@ button{
     border-radius: 40px;
 }
 
+
+
+
+
+
+.Billing-Acount{
+    height: 600px;
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid rgb(245, 245, 245) ; 
+    background-color:rgb(245, 245, 245) ;
+    border-radius: 8px;
+   
+}
+h1{
+   text-align: center;
+}
+#kk{
+    display:inline-block;
+   
+}
+p{
+    display: inline-block;
+    width:200px; 
+    padding-left: 43px;
+    padding-top: 20px;
+}
+
+#LL{
+    display: inline-block;
+    width:200px; 
+    padding-left: 43px;
+    padding-top: 20px;
+}
+#mm{
+    display: inline-block;
+
+    padding-left: 53px;
+}
+.color{
+    padding-right: 17px;
+    margin-left: 35px;
+    border: 1px solid rgba(15, 237, 56, 0.714);
+    padding: 5px;
+}
+input{
+    padding-right: 17px;
+    margin-left: 35px;
+    /* border: 1px solid rgba(15, 237, 56, 0.714); */
+    padding: 5px;
+
+
+}
+#country{
+    width:38%;
+    padding: 1px;
+    margin: 35px;
+}
+#uu{ 
+    display: inline;
+    padding-top: 20px;
+
+
+
+    }
+button{
+    display: inline;
+    border: 2px solid rgb(43, 222, 43);
+    background-color: rgb(46, 228, 46);
+    padding: 9px;
+    border-radius: 5px;
+    
+    margin-left: 70%;
+   
+}
+
+    
+
+#gg{
+    padding: 5px;
+    width: 50%;
+}
+#hh{
+    width: 110px;
+    padding: 5px;
+}
+#country{
+    padding: 5px;
+}
+#ii{
+    padding: 5px;
+    
+}
+#jj{
+    padding: 5px;
+    width: 80px;
+}
